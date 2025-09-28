@@ -51,10 +51,7 @@ This system ensures transparency, improves communication, and helps institutions
 
 ---
 
-## ⚙️ Installation & Setup
-### 🔹 Clone Main Repo
-```bash
-git clone https://github.com/Intership-Project
+
 
 
 🌍 Deployment
@@ -79,4 +76,5 @@ git clone https://github.com/Intership-Project
 ## 🏆 Conclusion
 The Student Feedback System makes it easy for students to submit feedback and for faculty and admins to view and analyze it.  
 It saves time, improves communication, and helps the institution enhance the quality of education.
+
 
