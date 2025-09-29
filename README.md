@@ -47,7 +47,6 @@ This system ensures transparency, improves communication, and helps institutions
 - [Android App](https://github.com/Intership-Project/Android-Frontend)
 - [Documentation](https://github.com/Intership-Project/Documentation)
 
-> Note: Each repository has its own README with instructions to run that part of the project.
 
 ---
 
@@ -66,10 +65,10 @@ This system ensures transparency, improves communication, and helps institutions
 
 👩‍💻 Contributors
 
- – Avinash
- - Madhura
- - Rupali
- - Shreya
+ – Avinash Dandime
+ - Madhura Boralkar
+ - Rupali Dhakite
+ - Shreya Changle
  - Swapnali Mahajan
 
 
