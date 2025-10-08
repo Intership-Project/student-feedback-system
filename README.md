@@ -132,8 +132,24 @@ This system ensures transparency, improves communication, and helps institutions
 
 <img width="1920" height="1020" alt="Screenshot 2025-09-30 155524" src="https://github.com/user-attachments/assets/3e6047c7-c528-489c-a609-cf81a5f8575b" />
 
+(Android Student App)
+
+<img width="363" height="743" alt="image" src="https://github.com/user-attachments/assets/8d61ecfa-9d96-4e6e-a05a-564edffbdd6a" />
 
 
+<img width="410" height="773" alt="image" src="https://github.com/user-attachments/assets/2cd40f18-3fcb-472f-971c-25f3d528dafe" />
+
+
+<img width="457" height="785" alt="image" src="https://github.com/user-attachments/assets/fe5a6ecf-60aa-41a9-9eca-e142585ea7b9" />
+
+<img width="480" height="1079" alt="image" src="https://github.com/user-attachments/assets/92693a3b-bc66-4a9d-b0ef-b7ae42f5fb5d" />
+
+<img width="502" height="1082" alt="image" src="https://github.com/user-attachments/assets/f371fd81-957d-4684-9961-34cdbd1459a4" />
+
+<img width="457" height="1079" alt="image" src="https://github.com/user-attachments/assets/23473256-120b-47d0-ae16-ea4d8811d567" />
+
+
+------
 
 
 🌍 Deployment
