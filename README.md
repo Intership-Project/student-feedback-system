@@ -66,7 +66,8 @@ This system ensures transparency, improves communication, and helps institutions
 <img width="1920" height="1020" alt="Screenshot 2025-09-30 152321" src="https://github.com/user-attachments/assets/43ca54e9-ea84-44ac-ae63-53aff4c1fd14" />
 
 
-<img width="1920" height="1020" alt="Screenshot 2025-09-30 152519" src="https://github.com/user-attachments/assets/4aefd56a-0aa0-48bc-abd8-2227abec49c0" />
+<img width="1920" height="1020" alt="Screenshot 2025-10-08 143448" src="https://github.com/user-attachments/assets/6e52d5e9-5c0d-4e6b-a7d9-404fa5daaeff" />
+
 
 
 <img width="1920" height="1020" alt="Screenshot 2025-09-30 152553" src="https://github.com/user-attachments/assets/a6887772-8e8f-407a-bd94-3a4a17fa8248" />
